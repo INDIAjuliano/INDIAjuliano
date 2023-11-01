@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm INDIA Juliano</h1>
 <h3 align="center">A passionate frontend and backend developer from Madagascar</h3>
 
+<h3 align="center">
+    <div>
+        <img src="assets/animated-flame-01.gif" height="50" align="left" width="1.75%"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=D71232&center=true&vCenter=true&width=600&lines=Hi%F0%9F%91%8B%2C+I'm+INDIA+Juliano;I'm+a+Developer%F0%9F%94%A5;Welcom+to+my+account+%F0%9F%98%8a" alt="Typing SVG" align="center" width="90%"/>
+        <img src="assets/animated-flame-01.gif" height="50" align="right" width="1.75%"/>
+    <div/>
+    <img src="assets/borderseparator.gif"/>
+</h3>
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 
