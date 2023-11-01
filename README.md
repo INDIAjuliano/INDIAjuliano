@@ -45,7 +45,7 @@
     <div align="center">
         <a href="#">
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/INDIAjuliano/INDIAjuliano/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
+                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/INDIAjuliano/INDIAjuliano/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
                 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INDIAjuliano/INDIAjuliano/master/profile-3d-contrib/profile-south-season-animate.svg" />
                 <img alt="INDIAjuliano-github-stat" src="https://raw.githubusercontent.com/INDIAjuliano/INDIAjuliano/master/profile-3d-contrib/profile-south-season-animate.svg" width="100%"/>
             </picture>
