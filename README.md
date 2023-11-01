@@ -83,7 +83,7 @@
     <br/>
     <br/>
     <div>
-        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,symfony,figma,nodejs,bootstrap,git,gitlab,mysql,tailwind,stackoverflow,docker,regex,xd,devto"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,linux,php,laravel,wordpress,symfony,figma,nodejs,bootstrap,git,gitlab,mysql,tailwind,stackoverflow,docker,regex,xd,devto"/>
     </div>
 </details>
 
