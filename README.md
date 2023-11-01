@@ -15,6 +15,45 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+<br/>
+
+<details open>
+    <summary>
+        <b>📈Activity Chart.</b>
+        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
+    <br/>
+    <div align="center">
+        <a href="#">
+            <img src="https://github-graph.herokuapp.com/graph?username=INDIAjuliano&hide_border=true&radius=15&theme=github-compact&line=FF5F5F&color=3572A5&point=3572A5"/>
+        </a>
+    </div>
+</details>
+
+<br/>
+
+<details open>
+    <summary>
+        <b>📈stats.</b>
+        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
+    <br/>
+    <div align="center">
+        <a href="#">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github.com/INDIAjuliano/INDIAjuliano/blob/master/profile-3d-contrib/profile-night-rainbow.svg" />
+                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INDIAjuliano/INDIAjuliano/master/profile-3d-contrib/profile-south-season-animate.svg" />
+                <img alt="INDIAjuliano-github-stat" src="https://raw.githubusercontent.com/INDIAjuliano/INDIAjuliano/master/profile-3d-contrib/profile-south-season-animate.svg" width="100%"/>
+            </picture>
+        </a>
+    </div>
+</details>
+
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 
