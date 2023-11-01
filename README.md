@@ -9,13 +9,6 @@
 </h3>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mgcodeur/mgcodeur/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mgcodeur/mgcodeur/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<br/>
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
