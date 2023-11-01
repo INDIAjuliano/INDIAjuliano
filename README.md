@@ -16,6 +16,20 @@
 </picture>
 
 <br/>
+<details open>
+    <summary>
+        <b>🏆 Trophies.</b>
+        <img src="assets/animated-flame-01.gif" width="1.75%" align="right"/>
+    </summary>
+    <img src="assets/borderseparator.gif"/>
+    <br/>
+    <br/>
+    <div>
+        <img src="https://github-profile-trophy.vercel.app/?username=INDIAjuliano&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Mgcodeur Github Trophies" width="100%"/>
+    </div>
+</details>
+
+<br/>
 
 <details open>
     <summary>
@@ -61,8 +75,6 @@
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indiajuliano" alt="indiajuliano" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
