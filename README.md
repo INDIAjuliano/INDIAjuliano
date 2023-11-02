@@ -109,9 +109,9 @@
         <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=juliano&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"/>
     </a>
 </div>
-
+<br/>
+<br/>
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=INDIAjuliano&icon=0&color=1"/>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
