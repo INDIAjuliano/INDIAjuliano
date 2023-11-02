@@ -90,15 +90,25 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <div>
-    <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+    <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/juliano india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juliano india" height="30" width="40" /></a>
+<a href="https://www.instagram.com/indiajuliano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juliano india" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+    <a href="https://www.buymeacoffee.com/julianogasii">
+        <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=juliano&button_colour=FF5F5F&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"/>
+    </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indiajuliano&" alt="indiajuliano" /></p>
+<div align="center">
+    <img src="https://visitcount.itsvg.in/api?id=INDIAjuliano&icon=0&color=1"/>
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
