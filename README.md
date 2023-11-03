@@ -111,7 +111,24 @@
 </div>
 <br/>
 <br/>
-<div align="center">
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&label=Profile%20views&color=0e75b6&style=flat" alt="indiajuliano" /> </p>
-</div>
 
+
+  <table align="center">
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/indiajuliano"><img src="https://github.com/indiajuliano.png" alt="@indiajuliano" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/indiajuliano"><b>indiajuliano</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/indiajuliano"> <img src="https://komarev.com/ghpvc/?username=indiajuliano&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
